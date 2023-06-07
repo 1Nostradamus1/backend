@@ -1,4 +1,4 @@
-gunicorn==3.6.0
+asgrief==3.6.0
 Django==4.0.4
 djangorestframework==3.14.0
 django-cors-headers==4.0.0
